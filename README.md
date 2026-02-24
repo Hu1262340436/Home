@@ -1,3 +1,3 @@
-# homr.github.io
+# Home.github.io
 
 My Personal Blog via GitHub
